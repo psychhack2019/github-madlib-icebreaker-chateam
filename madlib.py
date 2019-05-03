@@ -37,7 +37,7 @@ somethingYouDidntInvent = "exits"
 #person 3
 number2 = "94628904612845390"
 buzzword3 = "modeling"
-scientistThatScoopsYourLabConstantly = "Elizabeth Bonwitz"
+scientistThatScoopsYourLabConstantly = "Elizabeth Bonawitz"
 dependentVariable = "BOLD signal"
 
 #person 4
@@ -68,7 +68,7 @@ nounFewPeopleHaveHeardOf = "zoster"
 
 cwd = os.getcwd()
 
-story = ("This paper presents a " + synonymForNew + " method for " +
+story = ("This paper presents an " + synonymForNew + " method for " +
          sciencyVerb + "\nthe " + nounFewPeopleHaveHeardOf + ". Using " +
          somethingYouDidntInvent + ", the \n" + dependentVariable + " was measured to be " +
          number + " +/- " + number2 + "\n" + units + ". " +
