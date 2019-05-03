@@ -35,10 +35,10 @@ somethingYouDidntInvent = "exits"
 
 
 #person 3
-number2 = ""
-buzzword3 = ""
-scientistThatScoopsYourLabConstantly = ""
-dependentVariable = ""
+number2 = "94628904612845390"
+buzzword3 = "modeling"
+scientistThatScoopsYourLabConstantly = "Elizabeth Bonwitz"
+dependentVariable = "BOLD signal"
 
 #person 4
 units = ""
