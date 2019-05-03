@@ -41,10 +41,10 @@ scientistThatScoopsYourLabConstantly = "Elizabeth Bonwitz"
 dependentVariable = "BOLD signal"
 
 #person 4
-units = ""
-buzzword4 = ""
-supremeSocialogicalConcern = ""
-nounFewPeopleHaveHeardOf = ""
+units = "Jupiter's mass"
+buzzword4 = "synergistic effect"
+supremeSocialogicalConcern = "fat-shaming"
+nounFewPeopleHaveHeardOf = "zoster"
 
 
 
