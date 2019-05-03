@@ -25,13 +25,13 @@ import os
 teamName = "ChaTeam"
 synonymForNew = "advanced"
 sciencyVerb = "hacking"
-buzzword = "data science"
+buzzword = "data-science"
 
 #person 2
-number = ""
-buzzword2 = ""
-sexyAdjective = ""
-somethingYouDidntInvent = ""
+number = "1"
+buzzword2 = "neurogenesis"
+sexyAdjective = "cheesy"
+somethingYouDidntInvent = "exits"
 
 
 #person 3
